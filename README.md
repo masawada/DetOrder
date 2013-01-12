@@ -1,5 +1,5 @@
 # DetOrder
-Determin LT Order
+Determine LT Order
 
 ## Usage
 + write LT List in `js/lts.js`
