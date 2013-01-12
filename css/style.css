@@ -1,0 +1,30 @@
+/*
+ * 
+ * style.css
+ * Author: Masayoshi Wada
+ * 
+ */
+
+body{
+  background: #000000;
+}
+
+#main{
+  width: 800px;
+  margin: 32px auto;
+}
+
+.list-item{
+  color: #FFFFFF;
+  font: normal 30px/52px sans-serif;
+}
+
+#detbutton{
+  width: 180px;
+  height: 48px;
+  margin: auto;
+  background-color: #666666;
+  color: #FFFFFF;
+  font: normal 32px/48px sans-serif;
+  text-align: center;
+}
